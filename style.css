@@ -18,11 +18,13 @@ body {
 }
 
 main {
-  max-width: 40rem;
+  max-width: 32rem;
 
   padding: 5.6rem 4rem;
 
   margin-inline: auto;
+
+  box-sizing: content-box;
 }
 
 img {
